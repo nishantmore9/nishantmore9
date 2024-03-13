@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishat More</h1>
+<h1 align="center">Hi 👋, I'm Nishant More</h1>
 <h3 align="center">Computer engineering student passionate about coding, problem-solving, and development. Proficient in various languages and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmore9&label=Profile%20views&color=0e75b6&style=flat" alt="nishantmore9" /> </p>
