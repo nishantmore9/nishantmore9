@@ -1,22 +1,113 @@
-<h1 align="center">Hi 👋, I'm Nishant More</h1>
-<h3 align="center">Computer engineering student passionate about coding, problem-solving, and development. Proficient in various languages and technologies.</h3>
+<h1 align="center">Hey 👋, I'm Nishant More</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmore9&label=Profile%20views&color=0e75b6&style=flat" alt="nishantmore9" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer | Building Scalable & Impactful Applications
+</h3>
 
-- 🔭 I’m currently working on **Full stack development**
-
-- 📫 How to reach me **nishantmore228@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nishantmore228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishantmore228" height="30" width="40" /></a>
-<a href="https://instagram.com/nishantmore77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantmore77" height="30" width="40" /></a>
+<p align="center">
+Passionate about backend engineering, modern web technologies, real-time systems, and AI-powered solutions.
+I enjoy transforming ideas into production-ready applications with clean architecture and great user experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmore9&show_icons=true&locale=en&layout=compact" alt="nishantmore9" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishantmore9&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantmore9&show_icons=true&locale=en" alt="nishantmore9" /></p>
+---
 
+## 🚀 About Me
+
+- 🔭 Currently building **production-ready full stack applications**
+- 🌱 Exploring **AI/ML, scalable backend systems, and cloud technologies**
+- 💡 Interested in **Real-Time Applications, System Design, and Open Source**
+- ⚡ Love solving real-world problems through technology
+- 📫 Reach me at: **nishantmore228@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/nishantmore228" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+<a href="https://instagram.com/nishantmore77" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://github.com/nishantmore9" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+<a href="mailto:nishantmore228@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishantmore9&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmore9&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishantmore9&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Goals
+
+- 🚀 Building scalable backend architectures
+- 🌍 Creating impactful community-driven platforms
+- 📚 Continuously learning modern technologies
+- 💼 Preparing for Software Engineering roles
+
+---
+
+## ✨ Fun Fact
+
+```js
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
