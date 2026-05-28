@@ -1,113 +1,21 @@
-<h1 align="center">Hey 👋, I'm Nishant More</h1>
+# 💫 About Me:
+💻 Backend-focused Full Stack Developer<br>🔭 Currently working on scalable web applications & real-time systems<br>🌱 Exploring AI/ML, Cloud Technologies, and System Design<br>⚡ Strong interest in Backend Engineering & Production Architectures<br>🎯 Goal: Become a Software Engineer building impactful products
 
-<h3 align="center">
-🚀 Full Stack Developer | Building Scalable & Impactful Applications
-</h3>
 
-<p align="center">
-Passionate about backend engineering, modern web technologies, real-time systems, and AI-powered solutions.
-I enjoy transforming ideas into production-ready applications with clean architecture and great user experiences.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-more-857031230) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nishantmore228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantmore228@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nishantmore9&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nishantmore9&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nishantmore9&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishantmore9&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **production-ready full stack applications**
-- 🌱 Exploring **AI/ML, scalable backend systems, and cloud technologies**
-- 💡 Interested in **Real-Time Applications, System Design, and Open Source**
-- ⚡ Love solving real-world problems through technology
-- 📫 Reach me at: **nishantmore228@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishantmore9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=nishantmore9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/nishantmore228" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-</a>
-<a href="https://instagram.com/nishantmore77" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-<a href="https://github.com/nishantmore9" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-<a href="mailto:nishantmore228@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript" />
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishantmore9&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantmore9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishantmore9&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Goals
-
-- 🚀 Building scalable backend architectures
-- 🌍 Creating impactful community-driven platforms
-- 📚 Continuously learning modern technologies
-- 💼 Preparing for Software Engineering roles
-
----
-
-## ✨ Fun Fact
-
-```js
-while(alive) {
-   eat();
-   code();
-   sleep();
-   repeat();
-}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
